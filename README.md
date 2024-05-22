@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 Con un cuerpo de 4-10 mm, ojos pequeños y negros, y un color que va desde el marrón amarillento hasta el verde brillante, incluyendo otros colores como el azul, amarillo, verde, rojo, púrpura, blanco y marrón en su cuerpo,  la oveja del mar, 
 es uno de los animales del mar que se alimentan del sol.</p>
 </div>
-<div><img src="C:\Users\Ellis y Nina\Desktop\pagina web\img/Sea-Sheep-Picture.jpg"></div>
+<div><img src="https://www.americanoceans.org/wp-content/uploads/2023/06/sea-sheep-2048x1365.jpg"></div>
 </div>
 <div class="selecciones">
       <div>
@@ -44,7 +44,7 @@ el máximo partido de las algas de las que se alimentan en el fondo marino,
  con las que mantienen una relación simbiótica muy particular, la que también ayuda a mantener el equilibrio de las poblaciones de algas en sus hábitats. 
 Aunque no es la única razón que las hace especiales.</p>
 </div>
-<div><img src="C:\Users\Ellis y Nina\Desktop\pagina web\img/oveja.jpg"></div>
+<div><img src="https://assets3.thrillist.com/v1/image/2547155/size/tmg-facebook_social.jpg"></div>
 </div>
 <div class="selecciones">
       <div>
@@ -53,7 +53,7 @@ Aunque no es la única razón que las hace especiales.</p>
 Prefieren habitar en áreas con exuberante vegetación marina, ya que esto les proporciona no solo camuflaje sino también alimento.
 Se alimentan de plantas marinas clave, como Avrainvillea y Halimeda, que son alga verde.
 El color verde vibrante de las babosas de mar oveja hoja proviene de los cloroplastos ingeridos, lo que las hace parecerse a pequeñas ovejas submarinas que pastan en la vegetación acuática.</p>
-<div><img src="C:\Users\Ellis y Nina\Desktop\pagina web\img/tmg-facebook_social (1).jpg"></div>
+<div><img src="https://i.pinimg.com/originals/a2/86/fa/a286fa5f9d574d2c0bf32bab0ad41325.jpg"></div>
 </div>
 <div class="selecciones">
       <div>
@@ -64,7 +64,7 @@ permite que se almacene adentro de sí misma, así genera la energía y la mater
 Y a este robo de cloroplastos se le conoce como un proceso de “cleptoplastia”.
 Algunos estudios han encontrado que los cloroplastos pueden llevar a cabo la fotosíntesis dentro de las ovejas de mar hasta por entre nueve y 12 meses, y durante todo ese período siguen nutriendo al animal. Lo que aún no logra entenderse es cómo la babosa puede mantener estos cloroplastos durante tanto tiempo dentro de su organismo.</p>
 </div>
-<div><img src="C:\Users\Ellis y Nina\Desktop\pagina web\img/maxresdefault.jpg"></div>
+<div><img src="https://planetacurioso.net/wp-content/uploads/2020/09/oveja-de-mar3.png"></div>
 </div>
 </div>
 <div class="menu-secundario">
